@@ -9,7 +9,6 @@ function App() {
           aria-describedby="dinosaur_name_info"
         />
       </form>
-      test
     </div>
   );
 }
